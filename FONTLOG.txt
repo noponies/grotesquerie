@@ -1,0 +1,39 @@
+FONTLOG for Grotesquerie fonts
+
+This file provides detailed information on the Grotesquerie
+Font Software.
+
+This information should be distributed along with the 
+Grotesquerie fonts and any derivative works.
+
+Basic Font Information
+Grotesquerie is a collaborative project between father and son, Cove Sattler (8 years) and Dale Sattler to develop a monster font based off quick letter for sketches. The original concept and some characters were drawn during the 2020 Tauranga Zine Fest.
+
+
+To contribute to the project contact Dale Sattler 
+at dale@noponies.com
+
+01 July 2021 (Cove Sattler)
+Illustrations
+
+10 July 2021 (Dale Sattler)
+Font translation, Photoshop cleanups
+
+19 July 2021 (Dale Sattler)
+Github repository
+Transition from Fontlab to Glyphs
+
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), 
+email (E), web-address (if you have one) (W) and 
+description (D). This list is in alphabetical order.
+
+N: Cove Sattler
+D: Original font designer
+
+N: Dale Sattler [Noponies]
+E: dale@noponies.com
+W: http://noponies.com || https://noponies.github.io/
+D: Font technical production
